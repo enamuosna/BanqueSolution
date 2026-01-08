@@ -1,0 +1,11 @@
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\bin\Debug\net8.0\BanqueCamara.deps.json
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\bin\Debug\net8.0\BanqueCamara.dll
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\bin\Debug\net8.0\BanqueCamara.pdb
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\obj\Debug\net8.0\BanqueCamara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\obj\Debug\net8.0\BanqueCamara.AssemblyInfoInputs.cache
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\obj\Debug\net8.0\BanqueCamara.AssemblyInfo.cs
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\obj\Debug\net8.0\BanqueCamara.csproj.CoreCompileInputs.cache
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\obj\Debug\net8.0\BanqueCamara.dll
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\obj\Debug\net8.0\refint\BanqueCamara.dll
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\obj\Debug\net8.0\BanqueCamara.pdb
+C:\Users\victus\RiderProjectsbon\BanqueSolution\BanqueCamara\obj\Debug\net8.0\ref\BanqueCamara.dll
